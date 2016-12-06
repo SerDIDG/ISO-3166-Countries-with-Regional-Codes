@@ -1,6 +1,6 @@
 {
   "name": "ISO-3166-Countries-with-Regional-Codes",
-  "version": "5.1",
+  "version": "5.1.0",
   "description": "ISO 3166-1 country lists merged with their UN Geoscheme regional codes in ready-to-use JSON, XML, CSV data sets",
   "license": "MIT",
   "repository": "SerDIDG/ISO-3166-Countries-with-Regional-Codes"
